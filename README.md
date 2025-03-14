@@ -1,4 +1,4 @@
-# Site Blocker Chrome Extension
+# Website Blocker Chrome Extension
 
 A Google Chrome browser extension that allows users to add websites that they wish to block, for productivi. Websites can be added and deleted, and are stored in the browser's memory.
 Also displays a productivity quote to focus again.
